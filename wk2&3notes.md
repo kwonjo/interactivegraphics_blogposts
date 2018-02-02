@@ -1,6 +1,6 @@
 # interactivegraphics_notes
-##Week 2
-##January 19, 2018
+## Week 2
+## January 19, 2018
 	
 Creating libraries 
 Jos-MacBook-Pro:p5_hello_world jkwon$ touch index.html
@@ -41,7 +41,7 @@ function draw(){
     background(0, 191, 255);
 
 ## Week 2
-##January 24 & 26, 2018
+## January 24 & 26, 2018
 
 "	How to put code on github
 -download git
