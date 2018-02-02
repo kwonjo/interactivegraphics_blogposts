@@ -2,9 +2,11 @@
 
 ## Week 2 (January 19, 2018)
 
-###Creating libraries 
+### Creating libraries 
 Jos-MacBook-Pro:p5_hello_world jkwon$ touch index.html
+
 Jos-MacBook-Pro:p5_hello_world jkwon$ touch main.css
+
 Jos-MacBook-Pro:p5_hello_world jkwon$ mkdir libraires
 
 *	Websites (3 languages): 
