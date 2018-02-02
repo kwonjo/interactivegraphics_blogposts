@@ -85,21 +85,14 @@ pixel scale
 
 
 (0,0)
-	Working here all the time
+	Working here all the time (the fourth plane)
 	rect(x ,y, width, height)
+
 rect(x,y,w,h,[tl],[tr],[br],[bl])
+
 rect(x,y,w,h,[detailX],[detailY])
-	ellipse(x,y,w,[h])
-"	Color system
+
+ellipse(x,y,w,[h])
+*Color system
 fill(R, G, B)
 fill(Black to White)
-
-
-
-```javascript
-
-```
-
-
-
-  
