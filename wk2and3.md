@@ -48,6 +48,7 @@ background(0, 191, 255);
 
 [my_code.ino](code/my_code.ino)
 
+## Week 3 (January 24 & 26, 2018)
 *How to put code on github
 -download git
 -what is git? Keep track
