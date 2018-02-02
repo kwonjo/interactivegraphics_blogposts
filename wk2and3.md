@@ -32,7 +32,7 @@ function draw(){
 ```
 5.	Go live
 
-"	Questions
+*Questions
 1.	several sketches?
 -iframes
 -Instantiation Cases https://github.com/processing/p5.js/wiki/Instantiation-Cases
@@ -40,12 +40,59 @@ function draw(){
 2.	Sketches in function draw() later part seems to override the previous shapes. How can I stop that? All of the examples only have one shape in the function draw() so…
 -3D overrides 2D
 	-backgorund() should only be written only once!
-    background(0, 191, 255);
-
+```javascript
+background(0, 191, 255);
+```
 
 [my_code.ino](code/my_code.ino)
 
-4. Javascript
+*How to put code on github
+-download git
+-what is git? Keep track
+git init
+git status : track files
+git add . : all of the files
+git commit -m "added circle"
+git remote add origin https://github.com/kwonjo/helloworld_interactivegraphics.git
+git push -u origin master : upload to github
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kwonjo/interactivegraphics_project1.git
+git push -u origin master
+
+
+git status
+git add .
+git commit -m "added sth"
+git push
+
+	-branch: new ideas from the main idea
+	
+	
+*Review
+"	Coordinate system
+function setup(){
+createCanvas(x,y); ->size of the canvas
+} 
+where we set up the variables, canvas, artist's set up their canvas and everything in this place
+pixel scale
+	
+
+
+(0,0)
+	Working here all the time
+	rect(x ,y, width, height)
+rect(x,y,w,h,[tl],[tr],[br],[bl])
+rect(x,y,w,h,[detailX],[detailY])
+	ellipse(x,y,w,[h])
+"	Color system
+fill(R, G, B)
+fill(Black to White)
+
+
+
 ```javascript
 
 ```
