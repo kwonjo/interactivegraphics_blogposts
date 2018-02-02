@@ -1,7 +1,6 @@
 # Interactive graphics NOTES ON WEEK 2 & 3
 
-## Week 2
-## January 19, 2018
+## Week 2 (January 19, 2018)
 
 ###Creating libraries 
 Jos-MacBook-Pro:p5_hello_world jkwon$ touch index.html
