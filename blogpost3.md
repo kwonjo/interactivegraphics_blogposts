@@ -12,10 +12,10 @@ Zach Leiberman is a software developer and he worked with typographers Pierre Sm
 
 ![image2](/images/IQfont2.jpg)
 
-### 2.	all I know and then some by Addie Wagenknecht
+### 2. Ribbon Mandala by Sabrina Verhage
 
-[Here's a link to the piece](http://www.placesiveneverbeen.com/details/all-i-know-and-then-some)
+[Here's a link to the piece](https://www.openprocessing.org/sketch/122300)
 
-This piece may have not used programming but it uses an algorithm. The text is painted with acrylic paint but the texts are like for loops. They are repetitive. "I will not download things that get me into trouble." and "I will download things" are repeating over and over again. I think the artist is trying to make her point with repetition. In addition, I like this piece because it uses text and I want to use text in my project. This repetition can be made with p5js and other programming languages for visualization. 
+This piece may is first attractive to me due to the chance operations of the change in the constant shapes and patterns on the wheel. I also liked how it would make a swirl and change for each time. It looks like it is reloading each time and the random geometries intrigue users to continue to cluck to see different chances. I looked into the codes and it did seem complicated. However, I found out about the different classes that the artist used and how a lot of math was required to create the circles.
 
-![image3](/images/text.jpeg)
+![image3](/images/mandala.png)
